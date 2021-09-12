@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 [<img align="left" alt="0xabdulhaq | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
-[![0xabdulhaq's GitHub stats](https://my-github-stats-0xabdulhaq.vercel.app/api?username=0xabdulhaq)](https://github.com/0xabdulhaq/github-readme-stats)
+[![0xabdulhaq's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xabdulhaq)](https://github.com/0xabdulhaq/github-readme-stats)
