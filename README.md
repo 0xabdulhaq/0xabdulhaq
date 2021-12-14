@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 [![0xabdulhaq's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xabdulhaq&show_icons=true&theme=dracula)](https://github.com/0xabdulhaq/github-readme-stats)
+
+<script src="https://tryhackme.com/badge/133827"></script>
