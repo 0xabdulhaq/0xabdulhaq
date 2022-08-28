@@ -1,7 +1,7 @@
-### Hi there, I'm Abdul Haq Mohammed - aka 0xabdulhaq 👋
+### Hi there, I'm Abdul Haq Mohammed - aka a6du1h4q 👋
 
 <!--
-**0xabdulhaq/0xabdulhaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**a6du1h4q/a6du1h4q** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![0xabdulhaq's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xabdulhaq&show_icons=true&theme=onedark)](https://github.com/0xabdulhaq/github-readme-stats)
+[![a6du1h4q's GitHub stats](https://github-readme-stats.vercel.app/api?username=a6du1h4q&show_icons=true&theme=onedark)](https://github.com/a6du1h4q/github-readme-stats)
 
